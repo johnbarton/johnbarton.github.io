@@ -1,2 +1,2 @@
-# jpbarton.github.io
+# johnbarton.github.io
 Website
