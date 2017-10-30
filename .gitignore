@@ -1,3 +1,12 @@
+# Compiled site
 _site/
-.sass-cache/
+
+# Old files
+_old/
+
+# Projects
+projects/
+!projects/index.html
+
+# Jekyll metadata
 .jekyll-metadata
