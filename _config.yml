@@ -1,0 +1,39 @@
+# Site Settings
+
+paginate:      5
+
+
+# Build settings
+
+markdown:      kramdown
+highlighter:   rouge
+permalink:     none
+plugins:       [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-redirect-from]
+
+# Feed/SEO settings
+
+title:         Barton lab at UCR Physics
+description:   Research in computational immunology, host-pathogen dynamics, and statistical inference
+url:           https://johnbarton.github.io
+author:        John P Barton
+logo:          favicon.ico
+twitter:
+  username:    _jpbarton
+social:
+  name:        John P Barton
+  links:
+               - https://twitter.com/_jpbarton
+               - https://scholar.google.com/citations?user=ItAcAOMAAAAJ
+               - https://github.com/johnbarton
+               - https://github.com/bartonlab
+
+
+# Repos
+
+projects:
+  - johnbarton/ACE
+
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#   path:	     rss-feed.xml
