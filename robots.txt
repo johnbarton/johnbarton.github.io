@@ -1,1 +1,0 @@
-Sitemap: https://johnbarton.github.io/sitemap.xml
